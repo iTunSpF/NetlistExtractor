@@ -1,0 +1,16 @@
+I 14080 19-02-02 22:32:53 verilog.cpp:18] loading netlist "design/s1196.v"
+I  9984 19-02-02 22:32:53 celllib.cpp:40] loading celllib "design/NangateOpenCellLibrary_fast.lib"
+I 14080 19-02-02 22:32:53 spef.cpp:18] loading spef "design/s1196.spef"
+I 14080 19-02-02 22:32:53 sdc.cpp:35] loading sdc "design/s1196.r2r.sdc" ...
+I  9984 19-02-02 22:32:53 unit.cpp:256] use celllib time unit 1e-12 s
+I  9984 19-02-02 22:32:53 unit.cpp:270] use celllib capacitance unit 1e-15 F
+I  9984 19-02-02 22:32:53 unit.cpp:284] use celllib current unit 0.001 A
+I  9984 19-02-02 22:32:53 unit.cpp:298] use celllib voltage unit 1 V
+I  9984 19-02-02 22:32:53 unit.cpp:312] use celllib resistance unit 1000 Ohm
+I  9984 19-02-02 22:32:53 unit.cpp:326] use celllib power unit 1e-09 W
+I  9984 19-02-02 22:32:53 celllib.cpp:73] added min celllib "NangateOpenCellLibrary_fast" [cells:135]
+I  9984 19-02-02 22:32:53 celllib.cpp:73] added max celllib "NangateOpenCellLibrary_fast" [cells:135]
+I  9984 19-02-02 22:32:53 verilog.cpp:25] added verilog module "s1196" [gates:641]
+I  9984 19-02-02 22:32:53 spef.cpp:30] added 657 spef nets
+I  9984 19-02-02 22:32:53 sdc.cpp:25] added 9 sdc commands
+no critical path found

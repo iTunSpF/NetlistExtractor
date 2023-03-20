@@ -1,0 +1,11 @@
+#!/bin/csh -f
+
+# benchmark testcase
+set testcase = "s1196"
+
+# contest binary submission
+set prog = $1
+
+$prog $testcase.tau2019 design/$testcase.r2r.sdc outputs/$testcase.v outputs/$testcase.spef outputs/$testcase.out
+
+

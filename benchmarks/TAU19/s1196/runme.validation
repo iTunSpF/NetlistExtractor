@@ -1,0 +1,11 @@
+#!/bin/csh -f
+
+set testcase = "s1196"
+set prog = "../../../binaries/ot-shell"
+
+$prog -i design/$testcase.fast.conf |& tee outputs/fast.validation.out
+$prog -i design/$testcase.typical.conf |& tee outputs/typical.validation.out
+
+
+
+

@@ -1,2 +1,3 @@
-# NetlistExtractor
-Tool for extracting instantiated netlist with TAU15/19-benchmark-format verilog.
+这是一个可以提取例化的门级网表的 python 脚本。部分代码改编自 
+
+netlist.py：规定了网表的顶层类，
